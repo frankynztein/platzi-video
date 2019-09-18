@@ -1,5 +1,7 @@
 .carousel {
-  overflow: scroll;
+  // overflow: scroll;
+  overflow-x: auto;
+  overflow-y: hidden;
   padding-left: 30px;
   width: 100%;
   position: relative;
